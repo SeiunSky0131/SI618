@@ -33,6 +33,6 @@ The major data set used here is the <a href="https://www.transportation.gov/poli
 NumPy, Pandas, PySparkSQL, Seaborn
 
 ### Report
-The major analysis code is <a href="https://github.com/TaikiShuttle/SI618/edit/main/Project1/aviation_preprocess.ipynb">this Jupyter Notebook</a>.
+The major analysis code is <a href="https://github.com/TaikiShuttle/SI618/bolb/main/Project1/aviation_preprocess.ipynb">this Jupyter Notebook</a>.
 
-The report is <a href="https://github.com/TaikiShuttle/SI618/edit/main/Project1/si618-project-part-1-haoquanz.pdf">report</a>.
+The report is <a href="https://github.com/TaikiShuttle/SI618/bolb/main/Project1/si618-project-part-1-haoquanz.pdf">report</a>.
