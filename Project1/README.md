@@ -35,4 +35,4 @@ NumPy, Pandas, PySparkSQL, Seaborn
 ### Report
 The major analysis code is <a href="https://github.com/TaikiShuttle/SI618/blob/main/Project1/aviation_preprocess.ipynb">this Jupyter Notebook</a>.
 
-The report is <a href="https://github.com/TaikiShuttle/SI618/blob/main/Project1/si618-project-part-1-haoquanz.pdf">report</a>.
+The report is <a href="https://github.com/TaikiShuttle/SI618/blob/main/Project1/si618-project-part-1-haoquanz.pdf">here</a>.
