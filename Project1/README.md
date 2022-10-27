@@ -35,4 +35,4 @@ NumPy, Pandas, PySparkSQL, Seaborn
 ### Report
 The major analysis code is <a href="https://github.com/TaikiShuttle/SI618/edit/main/Project1/"></a>
 
-The report is <a href=""></a>
+The report is <a href="https://github.com/TaikiShuttle/SI618/edit/main/Project1/si618-project-part-1-haoquanz.pdf">report</a>
