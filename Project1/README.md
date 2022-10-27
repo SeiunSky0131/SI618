@@ -7,9 +7,13 @@ In this project, I am trying to analyze the US commerical aviation industry situ
 1. What is the impact of COVID on the US commercial aviation industry?
 2. Has the US commercial aviation industry recovered completely from the COVID pandemic?
 3. Is there any significant structural change made by the COVID pandemic to the US commercial aviation industry?
+
    a. Is there a significant change in top international destinations considering the flights departed from the US?
+   
    b. Is there a significant change in US airports rank considering the flights departed from the US?
+   
    c. Is there a significant change in top airline carriers considering the flights departed from the US?
+
 4. What are the current operating conditions of the US commercial aviation industry? Does the accident rate increase?
 5. When will the US commercial aviation industry reach the scale before the COVID pandemic?
 6. ...
