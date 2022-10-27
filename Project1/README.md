@@ -1,6 +1,6 @@
 # Project 1: Recovery of the US Commercial Aviation Industry after COVID: An International View
 ### Background
-I have been hearing from famous aviation YouTubers like Sam-Chui that the aviation industry is having its toughest years since the COVID pandemic. But I have never looking at the detials by myself. Instead of just believing it to be true, I think analyzing it by myself can convince myself better. As a crazy aviation fan, I want to get some insights to the current aviation industry.
+I have been hearing from famous aviation YouTubers like Sam-Chui that the aviation industry is having its toughest years since the COVID pandemic. But I have never looking at the details by myself. Instead of just believing it to be true, I think analyzing it by myself can convince myself better. As a crazy aviation fan, I want to get some insights to the current aviation industry.
 
 ### General Information
 In this project, I am trying to analyze the US commerical aviation industry situation after 1990. I am trying to ask myself following questions:
