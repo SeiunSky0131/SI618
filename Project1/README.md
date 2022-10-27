@@ -1,7 +1,3 @@
-<header>
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</header>    
-
 # Project 1: Recovery of the US Commercial Aviation Industry after COVID: An International View
 ### Background
 I have been hearing from famous aviation YouTubers like Sam-Chui that the aviation industry is having its toughest years since the COVID pandemic. But I have never looking at the detials by myself. Instead of just believing it to be true, I think analyzing it by myself can convince myself better. As a crazy aviation fan, I want to get some insights to the current aviation industry.
@@ -29,7 +25,5 @@ The major data set used here is the <a href="https://www.transportation.gov/poli
 4. <a href="https://www.bts.gov/topics/airlines-and-airports/airline-codes">Airline codes</a>
 5. <a href="https://gist.github.com/stevewithington/20a69c0b6d2ff846ea5d35e5fc47f26c">Country and Continent Lists</a>
 
-### Manipulation Tools
-<i class="devicon-pandas-original-wordmark colored">pandas</i>
-          
-          
+### Manipulation & Visualization Tools
+NumPy, Pandas, PySparkSQL, Seaborn
