@@ -18,4 +18,5 @@ Numpy, Pandas, Plotnine, Seaborn, SkLearn
 
 ### Report
 The major analysis code is [this Jupyter Notebook](https://github.com/TaikiShuttle/SI618/blob/main/Project2/si618_project2_EDA.ipynb).
+
 The report is [here](https://github.com/TaikiShuttle/SI618/blob/main/Project2/si618-project-2-haoquanz.pdf).
