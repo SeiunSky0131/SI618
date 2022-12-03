@@ -17,5 +17,5 @@ The major data set used here is the [Consumer Airfare Report](https://data.trans
 Numpy, Pandas, Plotnine, Seaborn, SkLearn
 
 ### Report
-The major analysis code is [this Jupyter Notebook]()
+The major analysis code is [this Jupyter Notebook](https://github.com/TaikiShuttle/SI618/blob/main/Project2/si618_project2_EDA.ipynb)
 The report is [here]()
