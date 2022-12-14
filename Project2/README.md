@@ -1,6 +1,6 @@
 # Project 2: US Domestic Airline Consumer Airfare: an Inter-City Analysis
 ### Background
-Traveling by airplane is one of the most common modes of transportation for the US dwellers. Compared with countries like Japan and China, which have a high population density, the distribution of the population in the US is quite sparse and thus not suitable for developing a high speed railway network [1]. However, the US also enjoys a huge land area, spanning from the Pacific Ocean to the Atlantic Ocean, which makes long range transportation a necessity for the US citizens. Throughout the history of the US, airplanes have thus been playing the essential role of long distance transportation. 
+Traveling by airplane is one of the most common modes of transportation for the US dwellers. Compared with countries like Japan and China, which have a high population density, the distribution of the population in the US is quite sparse and thus not suitable for developing a high speed railway network. However, the US also enjoys a huge land area, spanning from the Pacific Ocean to the Atlantic Ocean, which makes long range transportation a necessity for the US citizens. Throughout the history of the US, airplanes have thus been playing the essential role of long distance transportation. 
 
 Due to the popularity of air transportation, airfare has become one of the hottest problems discussed by the public.Understanding the trend of airfare and estimating reasonable prices are thus become important for money-saving. 
 
